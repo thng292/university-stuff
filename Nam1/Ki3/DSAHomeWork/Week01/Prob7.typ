@@ -20,4 +20,4 @@ $<=18x log_2(x)$ for all $x>10$\
 $=(x^2+5log_2x)/(2x+1)$ for all $x>1$\
 $<=(x^2+5x^2)/(2x)$ for all $x>1$\
 $<=3x$ for all $x>1$\
-#sym.arrow By definition of Big-oh, we conclude that $f(x)= (x^2+5log_2x)/(2x+1) in O(x)$ with $C=3,k=1$.
+#sym.arrow By definition of Big-oh, we conclude that $f(x)= (x^2+5log_2x)/(2x+1) in O(x)$ with $C=3,k=1$.\

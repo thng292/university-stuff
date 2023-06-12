@@ -10,4 +10,4 @@
 == $2^(n-1)$ and $2^n$
 #sym.arrow Same order of growth
 == $(𝑛-1)!$ and $n!$
-#sym.arrow Lower order of growth
+#sym.arrow Lower order of growth\
